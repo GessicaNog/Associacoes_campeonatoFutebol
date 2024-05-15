@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Associacoes_campeonatoFutebol {
 
     public static void main(String[] args) {
-        final int QTD_TIMES = 2;
+        final int QTD_TIMES = 10;
         final String TITULO = "CAMPEONATO DE FUTEBOL";
         int opcao = 0;
         Campeonato campeonato = new Campeonato();
